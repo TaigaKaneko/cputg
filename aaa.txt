@@ -1,0 +1,8 @@
+
+
+git lfs install
+conda create -n
+＃管理者権限で
+conda search python
+conda install python=3.9.1
+pip install -r requirements.txt
